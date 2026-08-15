@@ -11,10 +11,14 @@
             "id": "3a4541f88636d3e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "finance-agent相关.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "finance-agent相关"
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "finance-agent相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "finance-agent相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -152,6 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "finance-agent相关.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.1666259765625
+    "width": 438.1666259765625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

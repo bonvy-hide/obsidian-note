@@ -34,4 +34,5 @@ uv run uvicorn main:app --reload
 ![[比亚迪_近十年季度收盘价总股本总市值及单季度营收.xlsx]]
 
 ___
-[[Pasted image 20260815192558.png]]
+[[Pasted image 20260815192558.png|测试别名用法]]
+
