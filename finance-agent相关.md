@@ -14,6 +14,12 @@ uv run uvicorn main:app --reload
 示例模板：
 ![[ygr主要指标.xls]]
 
+也可通过url直接下载：
+```
+## GET请求，只要替换code
+https://basic.10jqka.com.cn/api/stock/export.php?export=diy&type=simple&code=688008&userid=723895634
+```
+
 #### 2、资产负债表
 直接导出资产负债表，按报告期，只去最新一季度，示例模板：
 ![[mt资产负债表.xlsx]]
@@ -21,6 +27,12 @@ uv run uvicorn main:app --reload
 或
 
 ![[ygr资产负债表.xls]]
+
+也可通过url直接下载：
+```url
+## GET请求，只要替换code
+https://basic.10jqka.com.cn/api/stock/export.php?export=debt&type=report&code=300750
+```
 
 #### 4、市值与业绩表
 
