@@ -9,7 +9,7 @@ uv run uvicorn main:app --reload
 #### 1、主要指标表
 导入数据时要选择的科目，缺一不可，按照单季度为维度，代码会自动处理近十个年度的
 
-![[Pasted image 20260815192558.png]]
+![[Pasted image 20260816222501.png]]
 
 示例模板：
 ![[ygr主要指标.xls]]
@@ -19,6 +19,9 @@ uv run uvicorn main:app --reload
 ## GET请求，只要替换code
 https://basic.10jqka.com.cn/api/stock/export.php?export=diy&type=simple&code=688008&userid=723895634
 ```
+
+主要指标表模板-V2
+![[yge主要指标表V2.xls]]
 
 #### 2、资产负债表
 直接导出资产负债表，按报告期，只去最新一季度，示例模板：
@@ -33,6 +36,8 @@ https://basic.10jqka.com.cn/api/stock/export.php?export=diy&type=simple&code=688
 ## GET请求，只要替换code
 https://basic.10jqka.com.cn/api/stock/export.php?export=debt&type=report&code=300750
 ```
+
+
 
 #### 4、市值与业绩表
 
