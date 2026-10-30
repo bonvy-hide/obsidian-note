@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "财务/读财报.md",
+                "file": "中化学/账号与环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "读财报"
+              "title": "账号与环境"
             }
           }
         ]
@@ -197,13 +197,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a4541f88636d3e6",
+  "active": "4af2706b70c92252",
   "lastOpenFiles": [
-    "财务/彼得林奇的成功投资.md",
-    "财务/读财报.md",
-    "未命名",
-    "Pasted image 20260823174516.png",
+    "Pasted image 20260816155710.png",
+    "中化学/账号与环境.md",
+    "中化学",
     "财务/提示词模板.md",
+    "财务/读财报.md",
+    "财务/彼得林奇的成功投资.md",
+    "Pasted image 20260823174516.png",
     "财务/finance-agent相关.md",
     "yge主要指标表V2.xls",
     "yge资产负债表.xls",
@@ -211,7 +213,6 @@
     "Pasted image 20260816222501.png",
     "~$比亚迪_近十年季度收盘价总股本总市值及单季度营收.xlsx",
     "Pasted image 20260816155734.png",
-    "Pasted image 20260816155710.png",
     "财务",
     "公司分析提示词模板",
     "未命名.base",
