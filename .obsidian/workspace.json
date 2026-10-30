@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "账号与环境"
             }
+          },
+          {
+            "id": "69d446261275d83f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +87,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +170,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finance-agent相关.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,10 +208,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4af2706b70c92252",
+  "active": "69d446261275d83f",
   "lastOpenFiles": [
-    "Pasted image 20260816155710.png",
+    "行测/资料分析.md",
+    "Pasted image 20261028213625.png",
+    "行测/备考计划.md",
+    "~$2027安徽省考备考规划.xlsx",
+    "2027安徽省考备考规划 1.xlsx",
+    "行测/未命名",
+    "2027安徽省考备考规划.xlsx",
+    "conflict-files-obsidian-git.md",
     "中化学/账号与环境.md",
+    "财务/金融心理学.md",
+    "行测",
+    "Pasted image 20260816155710.png",
     "中化学",
     "财务/提示词模板.md",
     "财务/读财报.md",
@@ -213,13 +234,8 @@
     "Pasted image 20260816222501.png",
     "~$比亚迪_近十年季度收盘价总股本总市值及单季度营收.xlsx",
     "Pasted image 20260816155734.png",
-    "财务",
-    "公司分析提示词模板",
-    "未命名.base",
-    "未命名 1.base",
     "未命名.canvas",
     "财务/Pasted image 20260815192558.png",
-    "比亚迪_近十年季度收盘价总股本总市值及单季度营收.xlsx",
     "未命名.md",
     "创建链接.md"
   ]
