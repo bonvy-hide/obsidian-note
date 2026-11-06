@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a2f5b295a36cb5",
+        "id": "7a18cb931cc54ac5",
         "type": "tabs",
         "children": [
           {
-            "id": "7971885cb685dafe",
+            "id": "a6030d8141b56283",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "finance-agent相关.md",
+                "file": "行测/资料分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,37 +197,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7971885cb685dafe",
+  "active": "a6030d8141b56283",
   "lastOpenFiles": [
     "Pasted image 20261105200740.png",
-    "行测/备考计划.md",
-    "中化学/账号与环境.md",
-    "中化学",
+    "行测/资料分析.md",
     "Pasted image 20261103172118.png",
     "Pasted image 20261103172114.png",
     "Pasted image 20261103145832.png",
-    "2027安徽省考备考规划.xlsx",
-    "行测/资料分析.md",
-    "行测/未命名.canvas",
+    "中化学/账号与环境.md",
+    "行测/备考计划.md",
+    "未命名.base",
+    "未命名.canvas",
     "Pasted image 20261028213625.png",
-    "财务/读财报.md",
-    "行测",
-    "财务/彼得林奇的成功投资.md",
+    "~$2027安徽省考备考规划.xlsx",
+    "2027安徽省考备考规划 1.xlsx",
+    "行测/未命名",
+    "2027安徽省考备考规划.xlsx",
+    "conflict-files-obsidian-git.md",
     "财务/金融心理学.md",
+    "行测",
     "Pasted image 20260816155710.png",
-    "Pasted image 20260823174516.png",
+    "中化学",
     "财务/提示词模板.md",
+    "财务/读财报.md",
+    "财务/彼得林奇的成功投资.md",
+    "Pasted image 20260823174516.png",
     "财务/finance-agent相关.md",
     "yge主要指标表V2.xls",
     "yge资产负债表.xls",
     "002922_diy_simple (1).xls",
     "Pasted image 20260816222501.png",
-    "~$比亚迪_近十年季度收盘价总股本总市值及单季度营收.xlsx",
     "Pasted image 20260816155734.png",
-    "财务",
-    "公司分析提示词模板",
-    "未命名.base",
-    "未命名.canvas",
     "财务/Pasted image 20260815192558.png",
     "未命名.md",
     "创建链接.md"
