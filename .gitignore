@@ -1,11 +1,15 @@
-
-/.obsidian/plugins/obsidian-git/main.js
-/.obsidian/plugins/obsidian-git/main.js
 /.obsidian/plugins/obsidian-git/main.js
 /.obsidian/plugins/obsidian-git/styles.css
 /.obsidian/plugins/obsidian-git/patch
-/.obsidian/plugins/obsidian-git/main.js
-/.obsidian/plugins/obsidian-git/main.js
-/.obsidian/plugins/obsidian-git/styles.css
-/.obsidian/plugins/obsidian-git/styles.css
 /.obsidian/workspace.json
+
+# Obsidian 运行状态，不需要同步
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+.DS_Store
+
+# 插件本体（js/css 可随时重装，避免插件更新冲突）
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
