@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测/资料分析.md",
+                "file": "行测/言语理解/片段阅读-中心理解题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "资料分析"
+              "title": "片段阅读-中心理解题"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "行测/资料分析.md",
+                "file": "行测/言语理解/片段阅读-中心理解题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,13 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52a4d59ef1f32fbd",
+  "active": "a6030d8141b56283",
   "lastOpenFiles": [
+    "行测/言语理解/片段阅读-细节理解题.md",
+    "行测/资料分析.md",
     "行测/备考计划.md",
     "行测/言语理解/语句表达.md",
-    "行测/言语理解/片段阅读-细节理解题.md",
     "行测/言语理解/片段阅读-中心理解题.md",
-    "行测/资料分析.md",
     "Pasted image 20261106202502.png",
     "Pasted image 20261107154239.png",
     "conflict-files-obsidian-git.md",
