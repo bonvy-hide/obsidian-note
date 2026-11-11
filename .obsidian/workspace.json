@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "语句表达"
             }
+          },
+          {
+            "id": "f5d8a533f3ba9eb5",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "行测/资料分析.md",
+                "bFile": "行测/资料分析.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 资料分析  (Working Tree)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,12 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6030d8141b56283",
+  "active": "f5d8a533f3ba9eb5",
   "lastOpenFiles": [
-    "行测/言语理解/片段阅读-细节理解题.md",
-    "行测/言语理解/语句表达.md",
-    "行测/言语理解/片段阅读-中心理解题.md",
     "行测/资料分析.md",
+    "Pasted image 20261106202502.png",
+    "Pasted image 20261107154239.png",
+    "conflict-files-obsidian-git.md",
+    "行测/言语理解/语句表达.md",
+    "行测/言语理解/片段阅读-细节理解题.md",
+    "行测/言语理解/片段阅读-中心理解题.md",
     "Pasted image 20261111111532.png",
     "Pasted image 20261111092036.png",
     "Pasted image 20261111085426.png",
@@ -213,8 +231,6 @@
     "行测/言语.md",
     "Pasted image 20261105200740.png",
     "Pasted image 20261103172118.png",
-    "Pasted image 20261103172114.png",
-    "Pasted image 20261103145832.png",
     "中化学/账号与环境.md",
     "行测/备考计划.md",
     "未命名.base",
@@ -222,7 +238,6 @@
     "~$2027安徽省考备考规划.xlsx",
     "2027安徽省考备考规划 1.xlsx",
     "2027安徽省考备考规划.xlsx",
-    "conflict-files-obsidian-git.md",
     "财务/金融心理学.md",
     "行测",
     "中化学",
