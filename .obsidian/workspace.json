@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc936226a561a961",
+        "id": "608df2f0987bd8ee",
         "type": "tabs",
         "children": [
           {
-            "id": "28229ca9fc6a853d",
+            "id": "7333788cb79bd2d7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 235.5
   },
   "right": {
     "id": "d2a463321eaa5f3e",
@@ -154,6 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "行测/言语理解/语句表达.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.1666259765625
+    "width": 328.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28229ca9fc6a853d",
+  "active": "7333788cb79bd2d7",
   "lastOpenFiles": [
-    "行测/言语理解/片段阅读-中心理解题.md",
+    "行测/言语理解/语句表达.md",
+    "Pasted image 20261112101542.png",
+    "Pasted image 20261112093809.png",
     "行测/言语理解/片段阅读-细节理解题.md",
+    "行测/言语理解/片段阅读-中心理解题.md",
+    "Pasted image 20261111191515.png",
+    "未命名 1.base",
+    "未命名.base",
     "行测/资料分析.md",
     "行测/备考计划.md",
-    "行测/言语理解/语句表达.md",
     "Pasted image 20261106202502.png",
     "Pasted image 20261107154239.png",
     "conflict-files-obsidian-git.md",
@@ -207,13 +213,9 @@
     "Pasted image 20261111085426.png",
     "Pasted image 20261110170610.png",
     "Pasted image 20261110144333.png",
-    "Pasted image 20261110143915.png",
     "行测/言语理解",
     "行测/言语.md",
-    "Pasted image 20261105200740.png",
-    "Pasted image 20261103172118.png",
     "中化学/账号与环境.md",
-    "未命名.base",
     "未命名.canvas",
     "~$2027安徽省考备考规划.xlsx",
     "2027安徽省考备考规划 1.xlsx",
@@ -227,7 +229,6 @@
     "财务/finance-agent相关.md",
     "yge主要指标表V2.xls",
     "yge资产负债表.xls",
-    "002922_diy_simple (1).xls",
     "未命名.md",
     "创建链接.md"
   ]
