@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "608df2f0987bd8ee",
+        "id": "cd737b8d0ec0e95a",
         "type": "tabs",
         "children": [
           {
-            "id": "7333788cb79bd2d7",
+            "id": "58f0cc9817667b60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "行测/言语理解/逻辑填空-词的辨析.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "逻辑填空-词的辨析"
             }
           }
         ]
@@ -193,13 +197,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7333788cb79bd2d7",
+  "active": "58f0cc9817667b60",
   "lastOpenFiles": [
+    "中化学/账号与环境.md",
+    "行测/言语理解/逻辑填空-词的辨析.md",
+    "Pasted image 20261113103935.png",
     "行测/言语理解/语句表达.md",
-    "Pasted image 20261112101542.png",
-    "Pasted image 20261112093809.png",
+    "Pasted image 20261113100326.png",
     "行测/言语理解/片段阅读-细节理解题.md",
     "行测/言语理解/片段阅读-中心理解题.md",
+    "Pasted image 20261112101542.png",
+    "Pasted image 20261112093809.png",
     "Pasted image 20261111191515.png",
     "未命名 1.base",
     "未命名.base",
@@ -211,11 +219,8 @@
     "Pasted image 20261111111532.png",
     "Pasted image 20261111092036.png",
     "Pasted image 20261111085426.png",
-    "Pasted image 20261110170610.png",
-    "Pasted image 20261110144333.png",
     "行测/言语理解",
     "行测/言语.md",
-    "中化学/账号与环境.md",
     "未命名.canvas",
     "~$2027安徽省考备考规划.xlsx",
     "2027安徽省考备考规划 1.xlsx",
