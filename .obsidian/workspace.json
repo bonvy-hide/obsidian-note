@@ -11,14 +11,14 @@
             "id": "83f51c8e971a72db",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "行测/言语理解/逻辑填空-词的辨析.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "3、题型"
+              "title": "逻辑填空-词的辨析"
             }
           }
         ]
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.1666259765625
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,16 +199,16 @@
   },
   "active": "83f51c8e971a72db",
   "lastOpenFiles": [
-    "Pasted image 20261123173929.png",
+    "行测/言语理解/语句表达.md",
     "行测/资料分析-花生/4、比重.md",
     "行测/资料分析-花生/3、题型.md",
     "行测/资料分析-花生/2、计算技巧.md",
+    "行测/判断推理/逻辑判断/2、因果推理.md",
+    "Pasted image 20261123173929.png",
     "行测/资料分析-花生/1、基本速算.md",
     "行测/言语理解/逻辑填空-词的辨析.md",
-    "行测/言语理解/语句表达.md",
     "行测/言语理解/逻辑填空-语境分析.md",
     "行测/言语理解/片段阅读-中心理解题.md",
-    "行测/判断推理/逻辑判断/2、因果推理.md",
     "行测/资料分析.md",
     "Pasted image 20261121162528.png",
     "Pasted image 20261121161636.png",
@@ -221,7 +221,6 @@
     "Pasted image 20261119170109.png",
     "Pasted image 20261118162256.png",
     "Pasted image 20261118151147.png",
-    "Pasted image 20261118150010.png",
     "行测/资料分析-花生",
     "行测/判断推理/逻辑判断/两句式推理.md",
     "行测/判断推理/逻辑判断",
